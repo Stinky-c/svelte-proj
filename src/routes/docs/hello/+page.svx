@@ -1,0 +1,14 @@
+---
+title: Using
+hidden: true
+---
+<script>
+	console.log("Hello!")
+</script>
+
+# Here’s a chart
+
+The chart is rendered inside our MDsveX document.
+
+<button class="btn" onclick={()=>alert("Hi")}> Hello from button</button>
+<a href="/">Hello, World!</a>
